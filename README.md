@@ -5,3 +5,5 @@ This branch was created to isolate and repair the Smart Sync transmission failur
 Using a separate branch protects the stable main version of EcoSync 2026 while developers test and improve the sync logic safely.
 
 ### Sync Recovery Improvements
+
+The maintenance update improves recovery after failed sync transmissions during power outages.
